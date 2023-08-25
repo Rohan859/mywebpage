@@ -1,0 +1,83 @@
+.android-large {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .android-large .overlap-group-wrapper {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 293px;
+    height: 862px;
+  }
+  
+  .android-large .overlap-group {
+    position: relative;
+    height: 864px;
+    background-color: #173dc4;
+  }
+  
+  .android-large .rohan-kundu {
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    top: 8px;
+    left: 15px;
+    object-fit: cover;
+  }
+  
+  .android-large .div {
+    position: absolute;
+    width: 85px;
+    top: 17px;
+    left: 61px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: transparent;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .android-large .text-wrapper {
+    color: #dd1823;
+  }
+  
+  .android-large .span {
+    color: #bed81e;
+  }
+  
+  .android-large .text-wrapper-2 {
+    position: absolute;
+    width: 113px;
+    top: 309px;
+    left: 15px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .android-large .overlap {
+    position: absolute;
+    width: 262px;
+    height: 101px;
+    top: 366px;
+    left: 15px;
+    background-color: #401576;
+  }
+  
+  .android-large .rohan-kundu-photo {
+    position: absolute;
+    width: 55px;
+    height: 60px;
+    top: 6px;
+    left: 8px;
+    object-fit: cover;
+  }
+  
